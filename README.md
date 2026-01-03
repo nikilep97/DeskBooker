@@ -10,7 +10,7 @@ This project leverages the latest web technologies to ensure performance, type s
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router & Server Actions)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Database:** [PostgreSQL](https://www.postgresql.org/) (hosted on Neon/Supabase)
+- **Database:** [PostgreSQL](https://www.postgresql.org/) (hosted on Neon)
 - **ORM:** [Prisma](https://www.prisma.io/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components:** [Shadcn/ui](https://ui.shadcn.com/)
